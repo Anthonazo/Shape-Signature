@@ -64,13 +64,13 @@ Se trabajó con cinco categorías de imágenes para realizar la clasificación:
    - Generar la matriz de confusión y analizar los resultados.
 
 3. **Código Principal**
-   El código principal para reproducir este proyecto está disponible en el archivo [`notebook.ipynb`](notebook.ipynb). Este incluye la carga de datos, entrenamiento del modelo, evaluación y visualización de resultados.
+   El código principal para reproducir este proyecto está disponible en el archivo [`Shape_Signature.ipynb`](Shape_Signature.ipynb). Este incluye la carga de datos, entrenamiento del modelo, evaluación y visualización de resultados.
 
 ## Matriz de Confusión
 
 A continuación, se presenta la matriz de confusión generada durante el análisis:
 
-![Matriz de Confusión](matriz_confusion.png)
+![matrix](https://github.com/user-attachments/assets/e53e3d13-3c31-44ec-9fdf-5edefb8b3f91)
 
 ## Próximos Pasos
 
